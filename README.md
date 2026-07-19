@@ -6,6 +6,10 @@ API server that the [`fft` CLI](https://github.com/Joessst-Dev/fft-cli) ships. I
 JUnit test a fresh, disposable fulfillmenttools API per run: a random host port, automatic
 readiness, automatic teardown. No tenant, no credentials, no network to the real platform. It mirrors the [Go module](https://github.com/Joessst-Dev/testcontainers-fft).
 
+> **Disclaimer:** This is an independent, community-maintained project and is **not** an
+> official fulfillmenttools product. It is not affiliated with, endorsed by, or supported
+> by fulfillmenttools GmbH. "fulfillmenttools" is a trademark of its respective owner.
+
 ## Usage
 
 ```java
