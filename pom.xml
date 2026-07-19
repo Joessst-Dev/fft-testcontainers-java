@@ -9,7 +9,7 @@
        the hyphen (illegal in package names): io.github.joessstdev.testcontainers.fft. -->
   <groupId>io.github.joessst-dev</groupId>
   <artifactId>fft-testcontainers</artifactId>
-  <version>0.1.0-SNAPSHOT</version>
+  <version>0.1.0</version>
   <packaging>jar</packaging>
 
   <name>fft-testcontainers</name>
